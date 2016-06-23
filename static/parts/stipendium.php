@@ -55,9 +55,9 @@ Die Stipendien werden bis spätestens Ende Mai vergeben. Der Rechtsweg ist ausge
 </div>
 			
 
-<div class="clubvideo embed-responsive embed-responsive-16by9">
+<!-- <div class="clubvideo embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/m6prZPYZNho" frameborder="0" allowfullscreen></iframe>
-</div>
+</div> -->
 
 
 
