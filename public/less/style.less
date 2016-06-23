@@ -1,0 +1,82 @@
+/* style.less */
+
+
+@cat-pink:  #ec008c;
+@cat-pink-tr: rgba(236,0,140, 0.7);
+@cat-black: #000;
+@cat-gray: #777;
+@cat-white: #fff;
+
+@max-outer-width:2000px;
+
+
+
+
+html {
+    // height: 100%;
+    // width: 100%;
+    height: auto;
+    min-height: 100%;
+    body {
+
+        a {
+          color:@cat-gray;
+          &:hover {
+            color:@cat-gray;
+          }
+        }
+        height: 100%;
+        width: 100%;
+        //background-color: @cat-pink;
+        .baskerville;
+        #wrapper {
+            height: 100%;
+            width: 100%;
+            padding: 0;
+            overflow-x: hidden;
+            max-width: @max-outer-width;
+            background-color: @cat-white;
+            
+              section {
+                z-index:10;
+                position:relative;
+              }
+              footer {
+                z-index:10;
+                position:relative;
+              }
+            }
+
+    }
+
+}
+
+
+
+
+
+
+// mixins and helpers
+.grayscale { 
+  -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+  filter: grayscale(100%);
+  filter: url(grayscale.svg); /* Firefox 4+ */
+  filter: gray; /* IE 6-9 */
+}
+
+.baskerville {
+  font-family: 'Libre Baskerville', serif;
+}    
+
+@media (max-width: @screen-xs-min) {
+  .make-grid(xxs);
+}
+
+.hidden-xxs {
+    @media (max-width: @screen-xs-min) { 
+        display:none;
+    }
+}

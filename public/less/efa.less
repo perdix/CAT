@@ -1,0 +1,37 @@
+#efa {
+
+	
+	background-color: @cat-white;
+	padding: 50px;
+	padding-left: 20%;
+	padding-right: 20%;
+	padding-top: 100px;
+    @media (max-width: @screen-xs-max) {
+    	padding-top:60px;
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+
+
+
+    .text {
+		-webkit-column-count: 2; /* Chrome, Safari, Opera */
+	    -moz-column-count: 2; /* Firefox */
+	    column-count: 2;
+	   	@media (max-width: @screen-sm-max) {
+			-webkit-column-count: 1; /* Chrome, Safari, Opera */
+		    -moz-column-count: 1; /* Firefox */
+		    column-count: 1;
+		}
+	    h2 {
+	    	font-size: 24px;
+	    }
+    	h3 {	
+    		font-size: 18px;
+    	}
+    }
+
+
+
+
+}

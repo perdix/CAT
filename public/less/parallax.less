@@ -1,0 +1,42 @@
+
+
+#parallax {
+	display:none;
+	position: fixed !important;
+	z-index:8 !important;
+	width:100vw;
+	height:100vh;
+	overflow:none;
+	top:0;
+	left:0;
+
+	div {
+		position:absolute;
+		transform: translate(-50%,0);
+		height:100%;
+		top:0;
+		left:50%;
+		width:180%;
+		@media (max-width: @screen-sm-max) {
+			width:250%;
+		}
+		@media (max-width: @screen-xs-max) {
+			width:350%;
+		}
+		height:100%;
+		img {
+			margin:0;
+			height:300px;
+			float:left;
+		}
+
+
+	}	
+
+	
+
+	
+
+
+
+}
