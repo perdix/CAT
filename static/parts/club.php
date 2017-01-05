@@ -29,33 +29,39 @@
 	<div class="container-fluid">
 		
 	<div class="col-sm-12 col-md-6">
-		<img src="public/img/vorstand/julia.jpg" alt="Julia">
-		<p class="pull-right">MMag. Julia Osl</p>
+		<img src="public/img/vorstand/veronica.jpg" alt="Veronica">
+		<p class="pull-right">Veronica Rungger</p>
 		<p class="pull-left">Obfrau</p>
 	</div>
 
 	<div class="col-sm-12 col-md-6">
-		<img src="public/img/vorstand/stefanie.jpg" alt="Stefanie">
-		<p class="pull-right">Stefanie Präauer, BSc. </p>
-		<p class="pull-left">Obfrau-StV.</p>
+		<img src="public/img/vorstand/thomas.jpg" alt="Thomas">
+		<p class="pull-right">Thomas Wieser, MSc.</p>
+		<p class="pull-left">Obfrau-StV. (FAN-Koordination</p>
 	</div>
 
 	<div class="col-sm-12 col-md-6">
-		<img src="public/img/vorstand/maria.jpg" alt="Maria">
-		<p class="pull-right">Maria Anegg, MSc.</p>
-		<p class="pull-left">Obfrau-StV.</p>
+		<img src="public/img/vorstand/mattias.jpg" alt="Matthias">
+		<p class="pull-right">Matthias Schwaiger, BA</p>
+		<p class="pull-left">Obfrau-StV. (Projekt-Koordination)</p>
 	</div>
 
 	<div class="col-sm-12 col-md-6">
-		<img src="public/img/vorstand/anna.jpg" alt="Anna">
-		<p class="pull-right">Mag. Anna Wanitschek</p>
+		<img src="public/img/vorstand/florian.jpg" alt="Florian">
+		<p class="pull-right">Florian Heiß, Msc.</p>
 		<p class="pull-left">Finanzreferentin</p>
 	</div>
 
 	<div class="col-sm-12 col-md-6">
-		<img src="public/img/vorstand/thomas.jpg" alt="Thomas">
-		<p class="pull-right">Thomas Wieser, BSc.</p>
+		<img src="public/img/vorstand/alexander.jpg" alt="Alexander">
+		<p class="pull-right">Alexander Pali</p>
 		<p class="pull-left">Schriftführer</p>
+	</div>
+
+	<div class="col-sm-12 col-md-6">
+		<img src="public/img/vorstand/maria.jpg" alt="Maria">
+		<p class="pull-right">Maria Anegg, BSc.</p>
+		<p class="pull-left">Senior Consultant</p>
 	</div>
 
 
