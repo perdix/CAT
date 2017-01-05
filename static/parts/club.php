@@ -37,13 +37,13 @@
 	<div class="col-sm-12 col-md-6">
 		<img src="public/img/vorstand/thomas.jpg" alt="Thomas">
 		<p class="pull-right">Thomas Wieser, MSc.</p>
-		<p class="pull-left">OStV. (FAN-Koordination)</p>
+		<p class="pull-left">FAN-Koordinator</p>
 	</div>
 
 	<div class="col-sm-12 col-md-6">
 		<img src="public/img/vorstand/matthias.jpg" alt="Matthias">
 		<p class="pull-right">Matthias Schwaiger, BA</p>
-		<p class="pull-left">OStV. (Projekt-Koordination)</p>
+		<p class="pull-left">Projekt-Koordinator</p>
 	</div>
 
 	<div class="col-sm-12 col-md-6">
