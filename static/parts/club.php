@@ -30,8 +30,8 @@
 		
 	<div class="col-sm-12 col-md-6">
 		<img src="public/img/vorstand/veronica.jpg" alt="Veronica">
-		<p class="pull-right">Veronica Rungger</p>
-		<p class="pull-left">Obfrau</p>
+		<p>Veronica Rungger</p>
+		<p>Obfrau</p>
 	</div>
 
 	<div class="col-sm-12 col-md-6">
@@ -49,7 +49,7 @@
 	<div class="col-sm-12 col-md-6">
 		<img src="public/img/vorstand/florian.jpg" alt="Florian">
 		<p class="pull-right">Florian Heiß, Msc.</p>
-		<p class="pull-left">Finanzreferentin</p>
+		<p class="pull-left">Finanzreferent</p>
 	</div>
 
 	<div class="col-sm-12 col-md-6">
