@@ -20,11 +20,9 @@ Club Alpbach Tirol c/o Universität Innsbruck <br>
 Innrain 52c, Josef-Möller-Haus<br>
 6020 Innsbruck<br>
 <a href="mailto:info@clubtirol.or.at">info@clubtirol.or.at</a> <br>
-<br>
 </p>
 
 Eine vollständige Bewerbung besteht aus:
-
 <ul>
 <li>deinem Lebenslauf</li>
 <li>deinem Motivationsschreiben (ca. 1 Seite)</li>
