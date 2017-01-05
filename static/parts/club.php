@@ -36,32 +36,32 @@
 
 	<div class="col-sm-12 col-md-6">
 		<img src="public/img/vorstand/thomas.jpg" alt="Thomas">
-		<p class="pull-right">Thomas Wieser, MSc.</p>
-		<p class="pull-left">FAN-Koordinator</p>
+		<p class="name">Thomas Wieser, MSc.</p>
+		<p class="title">Obfrau Stv. / FAN-Koordinator</p>
 	</div>
 
 	<div class="col-sm-12 col-md-6">
 		<img src="public/img/vorstand/matthias.jpg" alt="Matthias">
-		<p class="pull-right">Matthias Schwaiger, BA</p>
-		<p class="pull-left">Projekt-Koordinator</p>
+		<p class="name">Matthias Schwaiger, BA</p>
+		<p class="title">Obfrau Stv. / Projekt-Koordinator</p>
 	</div>
 
 	<div class="col-sm-12 col-md-6">
 		<img src="public/img/vorstand/florian.jpg" alt="Florian">
-		<p class="pull-right">Florian Heiß, Msc.</p>
-		<p class="pull-left">Finanzreferent</p>
+		<p class="name">Florian Heiß, Msc.</p>
+		<p class="title">Finanzreferent</p>
 	</div>
 
 	<div class="col-sm-12 col-md-6">
 		<img src="public/img/vorstand/alexander.jpg" alt="Alexander">
-		<p class="pull-right">Alexander Pali</p>
-		<p class="pull-left">Schriftführer</p>
+		<p class="name">Alexander Pali</p>
+		<p class="title">Schriftführer</p>
 	</div>
 
 	<div class="col-sm-12 col-md-6">
 		<img src="public/img/vorstand/maria.jpg" alt="Maria">
-		<p class="pull-right">Maria Anegg, BSc.</p>
-		<p class="pull-left">Senior Consultant</p>
+		<p class="name">Maria Anegg, BSc.</p>
+		<p class="title">Senior Consultant</p>
 	</div>
 
 
