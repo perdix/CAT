@@ -60,7 +60,7 @@
 
 	<div class="col-sm-12 col-md-6">
 		<img src="public/img/vorstand/maria.jpg" alt="Maria">
-		<p class="name">Maria Anegg, BSc.</p>
+		<p class="name">Maria Anegg, MSc.</p>
 		<p class="title">Senior Consultant</p>
 	</div>
 
