@@ -30,8 +30,8 @@
 		
 	<div class="col-sm-12 col-md-6">
 		<img src="public/img/vorstand/veronica.jpg" alt="Veronica">
-		<p>Veronica Rungger</p>
-		<p>Obfrau</p>
+		<p class='name'>Veronica Rungger</p>
+		<p class='title'>Obfrau</p>
 	</div>
 
 	<div class="col-sm-12 col-md-6">
