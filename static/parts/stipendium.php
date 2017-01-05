@@ -2,7 +2,7 @@
 	
 
 
-<h1>Stipendienaktion 2016</h1>
+<h1>Stipendienaktion 2017</h1>
 
 
 <div class="text">
@@ -13,7 +13,7 @@
 <h2>So kannst du dich bewerben</h2>
 
 <img src="public/img/welcome.jpg" alt="Welcome" style="width:96%;margin-bottom:5px;">
-<p>Um an der Stipendienaktion 2016 des Club Alpbach Tirol teilzunehmen, muss deine vollständige Bewerbung bis 30. März 2016 in elektronischer Form oder per Post bei uns eintreffen.
+<p>Um an der Stipendienaktion 2017 des Club Alpbach Tirol teilzunehmen, muss deine vollständige Bewerbung bis 30. März 2017 in elektronischer Form oder per Post bei uns eintreffen.
 <br>
 <br>
 Club Alpbach Tirol c/o Universität Innsbruck <br>
@@ -38,11 +38,11 @@ Eine vollständige Bewerbung besteht aus:
 
 
 
-Die kreative Bewerbungsarbeit kann eine schriftliche, grafische, filmische oder sonstige künstlerische Darstellungsfom sein. Wichtig ist, dass sich die Arbeit intensiv mit dem Thema des Europäischen Forum Alpbach 2016 "Neue Aufklärung" auseinandersetzt. Seminararbeiten oder sonstige studentische Aufgabentexte werden nicht als kreative Arbeit akzeptiert.</p>
+Die kreative Bewerbungsarbeit kann eine schriftliche, grafische, filmische oder sonstige künstlerische Darstellungsfom sein. Wichtig ist, dass sich die Arbeit intensiv mit dem Thema des Europäischen Forum Alpbach 2017 "Konflikt und Kooperation" auseinandersetzt. Seminararbeiten oder sonstige studentische Aufgabentexte werden nicht als kreative Arbeit akzeptiert.</p>
 
 <h3>Wichtiger Hinweis</h3>
 
-Der Club Alpbach Tirol vergibt <strong>keine Stipendien</strong> für die <a href="http://www.alpbach.org/index.php?id=1407" target="_blank">Sommerschule Europäische Integration</a> (Europarecht und internationales Wirtschaftsrecht)  oder die <a href="http://www.alpbach.org/index.php?id=1289" target="_blank">Sommerschule European Health Care and Social Systems in Transition</a>. Für beide Sommerschulen werden jedoch Stipendien direkt vom Forum Alpbach vergeben. Für ein Stipendium des europäischen Forums besteht auch die Möglichkeit sich direkt beim Forum zu bewerben. Eine Doppelbewerbung (Forum Alpbach und Club Alpbach Tirol) beeinflusst den Entscheid nicht. Hier geht´s zur <a href="http://www.alpbach.org/de/forum-2013/organisation/efa13-teilnahme/efa13-stipendien/stipendien-ubersicht/">Stipendienseite des Europäischen Forum Alpbach. </a></p>
+Der Club Alpbach Tirol vergibt <strong>keine Stipendien</strong> für die Sommerschulen, die zeitgleich in Alpbach stattfinden. Für diese werden jedoch Stipendien direkt vom Forum Alpbach vergeben. Für ein Stipendium des europäischen Forums besteht zudem auch die Möglichkeit, sich direkt beim Forum zu bewerben. Eine Doppelbewerbung (Forum Alpbach und Club Alpbach Tirol) beeinflusst den Entscheid nicht.</p>
 
 
 <h3>Bekanntgabe</h3>
