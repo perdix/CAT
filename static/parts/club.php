@@ -37,13 +37,13 @@
 	<div class="col-sm-12 col-md-6">
 		<img src="public/img/vorstand/thomas.jpg" alt="Thomas">
 		<p class="name">Thomas Wieser, MSc.</p>
-		<p class="title">Obfrau Stv. / FAN-Koordinator</p>
+		<p class="title">Obfrau Stv. / FAN-Koordination</p>
 	</div>
 
 	<div class="col-sm-12 col-md-6">
 		<img src="public/img/vorstand/matthias.jpg" alt="Matthias">
 		<p class="name">Matthias Schwaiger, BA</p>
-		<p class="title">Obfrau Stv. / Projekt-Koordinator</p>
+		<p class="title">Obfrau Stv. / Projekt-Koordination</p>
 	</div>
 
 	<div class="col-sm-12 col-md-6">
