@@ -41,7 +41,7 @@
 	</div>
 
 	<div class="col-sm-12 col-md-6">
-		<img src="public/img/vorstand/mattias.jpg" alt="Matthias">
+		<img src="public/img/vorstand/matthias.jpg" alt="Matthias">
 		<p class="pull-right">Matthias Schwaiger, BA</p>
 		<p class="pull-left">Obfrau-StV. (Projekt-Koordination)</p>
 	</div>
