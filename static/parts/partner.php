@@ -55,6 +55,11 @@ Nur in Kooperation mit zahlreichen öffentlichen und privaten Förderern ist es 
 		<h3>Universität Innsbruck</h3>	
 	</div>
 
+	<div class="col-md-6">
+		<img src="public/img/partner/swarovski.png" alt="Logo Swarovski">
+		<h3>Swarovski</h3>	
+	</div>
+
 
 	<div class="col-md-6">
 		<img src="public/img/partner/career.jpg" alt="">
