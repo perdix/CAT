@@ -45,7 +45,7 @@
 			<div class="contentbox">
 			<a href="#stipendium" class="scroll-link">
 				<div id="stipendium-box">
-				<h2 class="lower left">Stipendium 2016</h2>
+				<h2 class="lower left">Stipendium 2017</h2>
 				</div>
 			</a>	
 			</div>
