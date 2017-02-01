@@ -13,7 +13,7 @@
 <h2>So kannst du dich bewerben</h2>
 
 <img src="public/img/welcome.jpg" alt="Welcome" style="width:96%;margin-bottom:5px;">
-<p>Um an der Stipendienaktion 2017 des Club Alpbach Tirol teilzunehmen, muss deine vollständige Bewerbung bis 30. März 2017 in elektronischer Form oder per Post bei uns eintreffen.
+<p>Um an der Stipendienaktion 2017 des Club Alpbach Tirol teilzunehmen, muss deine vollständige Bewerbung bis zum 31. März 2017 in elektronischer Form oder per Post bei uns eintreffen.
 <br>
 <br>
 Club Alpbach Tirol c/o Universität Innsbruck <br>
