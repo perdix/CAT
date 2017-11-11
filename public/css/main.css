@@ -6794,6 +6794,16 @@ html body #wrapper footer {
   background-color: #ec008c;
   padding: 5px;
 }
+#navboxes .contentbox div h2.fb:after {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin-left: 10px;
+  content: "";
+  background: url('../img/fb-logo.png') no-repeat 0 0;
+  background-size: 100%;
+  vertical-align: top;
+}
 @media (max-width: 991px) {
   #navboxes .contentbox div h2 {
     font-size: 2vw;
@@ -6856,6 +6866,9 @@ html body #wrapper footer {
 }
 #navboxes .contentbox .image {
   background-image: url('../img/square1.jpg');
+}
+#navboxes .contentbox .outdoor {
+  background-image: url('../img/outdoor.jpg');
 }
 #navboxes .contentbox .video {
   overflow: hidden;
@@ -7070,7 +7083,7 @@ html body #wrapper footer {
   bottom: 30px;
   transform: translateX(-50%);
   left: 50%;
-  max-width: 120px;
+  max-width: 250px;
   max-height: 60px;
 }
 footer {

@@ -2,18 +2,23 @@
 	
 
 
-<h1>Stipendienaktion 2017</h1>
+<h1>Stipendienaktion 2018</h1>
 
 
 <div class="text">
 	
-<p>Jedes Jahr vergibt der Club Alpbach Tirol Stipendien an Studierende aller Universitäten und Fachhochschulen in Tirol sowie an TirolerInnen, die an einer anderen nationalen oder internationalen Universität oder Fachhochschule studieren. Der Club Alpbach Tirol vergibt Stipendien im Wert von € 1.200 für die Teilnahme an der Seminarwoche sowie den Alpbacher Gesprächen, nicht jedoch für die Alpbacher Sommerschule. Interessierte an einem solchen Stipendium müssen sich direkt beim Europäischen Forum bewerben. Voraussetzung für die Bewerbung um ein Stipendium des Club Alpbach Tirol ist eine Teilnahme am gesamten Forum in Alpbach.</p>
+<p>Jedes Jahr vergibt der Club Alpbach Tirol Stipendien an Studierende aller Universitäten und Fachhochschulen in Tirol sowie an TirolerInnen, die an einer anderen nationalen oder internationalen Universität oder Fachhochschule studieren.
+<br><br>
+Der Club Alpbach Tirol vergibt Stipendien im Wert von € 1.200 für die Teilnahme an der Seminarwoche sowie den Alpbacher Gesprächen, nicht jedoch für die Alpbacher Sommerschule.
+<br>
+Interessierte an einem solchen Stipendium müssen sich direkt beim Europäischen Forum bewerben. Voraussetzung für die Bewerbung um ein Stipendium des Club Alpbach Tirol ist eine Teilnahme am gesamten Forum in Alpbach.</p>
+
+<img src="public/img/welcome.jpg" alt="Welcome" style="width:96%;margin-bottom:5px;">
 
 
 <h2>So kannst du dich bewerben</h2>
 
-<img src="public/img/welcome.jpg" alt="Welcome" style="width:96%;margin-bottom:5px;">
-<p>Um an der Stipendienaktion 2017 des Club Alpbach Tirol teilzunehmen, muss deine vollständige Bewerbung bis zum 31. März 2017 in elektronischer Form oder per Post bei uns eintreffen.
+<p>Um an der Stipendienaktion 2018 des Club Alpbach Tirol teilzunehmen, muss deine vollständige Bewerbung bis zum 31. März 2018 in elektronischer Form oder per Post bei uns eintreffen.
 <br>
 <br>
 Club Alpbach Tirol c/o Universität Innsbruck <br>
@@ -22,13 +27,19 @@ Innrain 52c, Josef-Möller-Haus<br>
 <a href="mailto:info@clubtirol.or.at">info@clubtirol.or.at</a> <br>
 </p>
 
-Eine vollständige Bewerbung besteht aus:
-<ul>
-<li>deinem Lebenslauf</li>
-<li>deinem Motivationsschreiben (ca. 1 Seite)</li>
-<li>deinen Überlegungen zum Generalthema in Form einer kreativen Arbeit</li>
-<li>deiner Studienbestätigung</li>
-</ul>
+<br>
+
+<p style="-webkit-column-break-inside: avoid;
+            page-break-inside: avoid;
+            break-inside: avoid;">
+    Eine vollständige Bewerbung besteht aus:
+    <ul>
+    <li>deinem Lebenslauf</li>
+    <li>deinem Motivationsschreiben (ca. 1 Seite)</li>
+    <li>deinen Überlegungen zum Generalthema in Form einer kreativen Arbeit</li>
+    <li>deiner Studienbestätigung</li>
+    </ul>
+</p>
 
 
 
@@ -36,7 +47,7 @@ Eine vollständige Bewerbung besteht aus:
 
 
 
-Die kreative Bewerbungsarbeit kann eine schriftliche, grafische, filmische oder sonstige künstlerische Darstellungsfom sein. Wichtig ist, dass sich die Arbeit intensiv mit dem Thema des Europäischen Forum Alpbach 2017 "Konflikt und Kooperation" auseinandersetzt. Seminararbeiten oder sonstige studentische Aufgabentexte werden nicht als kreative Arbeit akzeptiert.</p>
+Die kreative Bewerbungsarbeit kann eine schriftliche, grafische, filmische oder sonstige künstlerische Darstellungsfom sein. Wichtig ist, dass sich die Arbeit intensiv mit dem Thema des Europäischen Forum Alpbach 2018 "Diversity and Resilience" auseinandersetzt. Seminararbeiten oder sonstige studentische Aufgabentexte werden nicht als kreative Arbeit akzeptiert.</p>
 
 <h3>Wichtiger Hinweis</h3>
 

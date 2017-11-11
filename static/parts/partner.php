@@ -1,7 +1,7 @@
 <section id="partner">
 	
 
-<h1>Unserer Förderer</h1>
+<h1>Unsere Förderer</h1>
 
 
 
@@ -14,12 +14,12 @@ Nur in Kooperation mit zahlreichen öffentlichen und privaten Förderern ist es 
 
 	<div class="col-md-6">
 		<h3>Arbeiterkammer Tirol</h3>
-		<img src="public/img/partner/ak.gif" alt="Logo Arbeiterkammer">
+		<img src="public/img/partner/arbeiterkammer.jpg" alt="Logo Arbeiterkammer">
 			
 	</div>
 
 	<div class="col-md-6">
-		<img src="public/img/partner/iv.gif" alt="Logo Industriellenvereinigung">
+		<img src="public/img/partner/industriellenvereinigung.jpg" alt="Logo Industriellenvereinigung">
 		<h3>Industriellenvereinigung Tirol</h3>	
 	</div>
 
@@ -34,7 +34,7 @@ Nur in Kooperation mit zahlreichen öffentlichen und privaten Förderern ist es 
 	</div>
 
 	<div class="col-md-6">
-		<img src="public/img/partner/kammer.png" alt="Logo Wirtschaftkammer">
+		<img src="public/img/partner/wirtschaftskammer.jpg" alt="Logo Wirtschaftkammer">
 		<h3>Wirtschaftskammer Tirol</h3>	
 	</div>
 
@@ -46,8 +46,8 @@ Nur in Kooperation mit zahlreichen öffentlichen und privaten Förderern ist es 
 	</div>
 
 	<div class="col-md-6">
-		<img src="public/img/partner/medoeh.jpg" alt="Logo Med ÖH">
-		<h3>Med ÖH Innsbruck</h3>	
+		<img src="public/img/partner/vizrt.png" alt="Logo Vizrt">
+		<h3>Vizrt</h3>
 	</div>
 
 	<div class="col-md-6">

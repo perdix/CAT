@@ -11,7 +11,7 @@
 			<div class="contentbox">
 			<a href="https://www.facebook.com/clubalpbachtirol/">
 				<div id="news-box">
-				<h2 class="upper right">News@Facebook</h2>
+				<h2 class="upper right fb">News@Facebook</h2>
 				</div>
 				</a>	
 			</div>
@@ -45,7 +45,7 @@
 			<div class="contentbox">
 			<a href="#stipendium" class="scroll-link">
 				<div id="stipendium-box">
-				<h2 class="lower left">Stipendium 2017</h2>
+				<h2 class="lower left">Stipendium 2018</h2>
 				</div>
 			</a>	
 			</div>
