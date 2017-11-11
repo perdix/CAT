@@ -13,7 +13,6 @@ Der Club Alpbach Tirol vergibt Stipendien im Wert von € 1.200 für die Teilnah
 <br>
 Interessierte an einem solchen Stipendium müssen sich direkt beim Europäischen Forum bewerben. Voraussetzung für die Bewerbung um ein Stipendium des Club Alpbach Tirol ist eine Teilnahme am gesamten Forum in Alpbach.</p>
 
-<img src="public/img/welcome.jpg" alt="Welcome" style="width:96%;margin-bottom:5px;">
 
 
 <h2>So kannst du dich bewerben</h2>
@@ -43,15 +42,22 @@ Innrain 52c, Josef-Möller-Haus<br>
 
 
 
+
+
+
 <h3>Kreative Bewerbungsarbeit</h3>
 
 
 
 Die kreative Bewerbungsarbeit kann eine schriftliche, grafische, filmische oder sonstige künstlerische Darstellungsfom sein. Wichtig ist, dass sich die Arbeit intensiv mit dem Thema des Europäischen Forum Alpbach 2018 "Diversity and Resilience" auseinandersetzt. Seminararbeiten oder sonstige studentische Aufgabentexte werden nicht als kreative Arbeit akzeptiert.</p>
 
+
+
 <h3>Wichtiger Hinweis</h3>
 
 Der Club Alpbach Tirol vergibt <strong>keine Stipendien</strong> für die Sommerschulen, die zeitgleich in Alpbach stattfinden. Für diese werden jedoch Stipendien direkt vom Forum Alpbach vergeben. Für ein Stipendium des europäischen Forums besteht zudem auch die Möglichkeit, sich direkt beim Forum zu bewerben. Eine Doppelbewerbung (Forum Alpbach und Club Alpbach Tirol) beeinflusst den Entscheid nicht.</p>
+
+<img src="public/img/welcome.jpg" alt="Welcome" style="width:96%;margin-bottom:5px;">
 
 
 <h3>Bekanntgabe</h3>
