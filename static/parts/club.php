@@ -36,7 +36,7 @@
 
 	<div class="col-sm-12 col-md-6">
 		<img src="public/img/vorstand/thomas.jpg" alt="Thomas">
-		<p class="name">Thomas Wieser, MSc.</p>
+		<p class="name">Thomas Wieser, BBSc, MSc</p>
 		<p class="title">Obfrau Stv. / FAN-Koordination</p>
 	</div>
 
@@ -48,13 +48,13 @@
 
 	<div class="col-sm-12 col-md-6">
 		<img src="public/img/vorstand/florian.jpg" alt="Florian">
-		<p class="name">Florian Heiß, Msc.</p>
+		<p class="name">Florian Heiß, MSc</p>
 		<p class="title">Finanzreferent</p>
 	</div>
 
 	<div class="col-sm-12 col-md-6">
 		<img src="public/img/vorstand/alexander.jpg" alt="Alexander">
-		<p class="name">Alexander Pali</p>
+		<p class="name">Alexander Pali, BSc</p>
 		<p class="title">Schriftführer</p>
 	</div>
 
