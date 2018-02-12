@@ -11,7 +11,7 @@
 <br><br>
 Der Club Alpbach Tirol vergibt Stipendien im Wert von € 1.200 für die Teilnahme an der Seminarwoche sowie den Alpbacher Gesprächen, nicht jedoch für die Alpbacher Sommerschule.
 <br>
-Interessierte an einem solchen Stipendium müssen sich direkt beim Europäischen Forum bewerben. Voraussetzung für die Bewerbung um ein Stipendium des Club Alpbach Tirol ist eine Teilnahme am gesamten Forum in Alpbach.</p>
+Interessierte an einem solchen Stipendium müssen sich direkt beim Europäischen Forum bewerben. Voraussetzung für die Bewerbung um ein Stipendium des Club Alpbach Tirol ist eine Teilnahme am gesamten Forum in Alpbach sowie ein Höchstalter von 30 Jahren.</p>
 
 
 
@@ -55,7 +55,7 @@ Die kreative Bewerbungsarbeit kann eine schriftliche, grafische, filmische oder 
 
 <h3>Wichtiger Hinweis</h3>
 
-Der Club Alpbach Tirol vergibt <strong>keine Stipendien</strong> für die Sommerschulen, die zeitgleich in Alpbach stattfinden. Für diese werden jedoch Stipendien direkt vom Forum Alpbach vergeben. Für ein Stipendium des europäischen Forums besteht zudem auch die Möglichkeit, sich direkt beim Forum zu bewerben. Eine Doppelbewerbung (Forum Alpbach und Club Alpbach Tirol) beeinflusst den Entscheid nicht.</p>
+Der Club Alpbach Tirol vergibt <strong>keine Stipendien</strong> für die Sommerschulen, die zeitgleich in Alpbach stattfinden. Für diese werden jedoch Stipendien direkt vom Forum Alpbach vergeben.</p>
 
 <img src="public/img/welcome.jpg" alt="Welcome" style="width:96%;margin-bottom:5px;">
 
