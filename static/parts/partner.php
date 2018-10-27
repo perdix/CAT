@@ -19,11 +19,6 @@ Nur in Kooperation mit zahlreichen öffentlichen und privaten Förderern ist es 
 	</div>
 
 	<div class="col-md-6">
-		<img src="public/img/partner/industriellenvereinigung.jpg" alt="Logo Industriellenvereinigung">
-		<h3>Industriellenvereinigung Tirol</h3>	
-	</div>
-
-	<div class="col-md-6">
 		<img src="public/img/partner/fh-logox.jpeg" alt="Logo Fachhochschule">
 		<h3>Fachhochschule Kufstein</h3>	
 	</div>
@@ -36,18 +31,6 @@ Nur in Kooperation mit zahlreichen öffentlichen und privaten Förderern ist es 
 	<div class="col-md-6">
 		<img src="public/img/partner/wirtschaftskammer.jpg" alt="Logo Wirtschaftkammer">
 		<h3>Wirtschaftskammer Tirol</h3>	
-	</div>
-
-
-
-	<div class="col-md-6">
-		<img src="public/img/partner/oeh.png" alt="Logo ÖH Innsbruck">
-		<h3>ÖH Innsbruck</h3>	
-	</div>
-
-	<div class="col-md-6">
-		<img src="public/img/partner/vizrt.png" alt="Logo Vizrt">
-		<h3>Vizrt</h3>
 	</div>
 
 	<div class="col-md-6">

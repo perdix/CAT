@@ -9,11 +9,19 @@
 		<div class="col-xxs-6 col-xs-4 col-sm-3 col-md-3 col-lg-3">
 			<div class="squarebox"></div>
 			<div class="contentbox">
-			<a href="https://www.facebook.com/clubalpbachtirol/">
 				<div id="news-box">
-				<h2 class="upper right fb">News@Facebook</h2>
-				</div>
-				</a>	
+				    <h2 class="upper right">News @
+                        <a href="https://www.facebook.com/clubalpbachtirol/">
+                            <img src="public/img/fb-logo.png" alt="Facebook Icon">
+                        </a>
+                        <a href="https://www.instagram.com/clubalpbachtirol/?hl=de">
+                            <img src="public/img/insta.png" alt="Instgram Icon">
+                        </a>
+
+
+
+                    </h2>
+                </div>
 			</div>
 		</div> 
 
@@ -45,7 +53,7 @@
 			<div class="contentbox">
 			<a href="#stipendium" class="scroll-link">
 				<div id="stipendium-box">
-				<h2 class="lower left">Stipendium 2018</h2>
+				<h2 class="lower left">Stipendium 2019</h2>
 				</div>
 			</a>	
 			</div>

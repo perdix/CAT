@@ -2,7 +2,7 @@
 	
 
 
-<h1>Stipendienaktion 2018</h1>
+<h1>Stipendienaktion 2019</h1>
 
 
 <div class="text">
@@ -17,7 +17,8 @@ Interessierte an einem solchen Stipendium müssen sich direkt beim Europäischen
 
 <h2>So kannst du dich bewerben</h2>
 
-<p>Um an der Stipendienaktion 2018 des Club Alpbach Tirol teilzunehmen, muss deine vollständige Bewerbung bis zum 31. März 2018 in elektronischer Form oder per Post bei uns eintreffen.
+<p>Um an der Stipendienaktion 2019 des Club Alpbach Tirol teilzunehmen, muss deine vollständige Bewerbung bis zum 31. März 2019 in elektronischer Form oder per Post bei uns eintreffen.
+    Es müssen unbedingt alle vier Teile der Bewerbung vor der Bewerbungsfrist eingereicht werden. Einreichungen oder Ergänzungen nach Ablauf der Deadline können nicht berücksichtigt werden.
 <br>
 <br>
 Club Alpbach Tirol c/o Universität Innsbruck <br>
@@ -41,15 +42,17 @@ Innrain 52c, Josef-Möller-Haus<br>
 </p>
 
 
-
-
-
+    <br>
 
 <h3>Kreative Bewerbungsarbeit</h3>
 
+<p>
 
-
-Die kreative Bewerbungsarbeit kann eine schriftliche, grafische, filmische oder sonstige künstlerische Darstellungsfom sein. Wichtig ist, dass sich die Arbeit intensiv mit dem Thema des Europäischen Forum Alpbach 2018 "Diversity and Resilience" auseinandersetzt. Seminararbeiten oder sonstige studentische Aufgabentexte werden nicht als kreative Arbeit akzeptiert.</p>
+Die kreative Bewerbungsarbeit kann eine schriftliche, grafische, filmische oder sonstige künstlerische Darstellungsfom sein.
+    Wichtig ist, dass sich die Arbeit intensiv mit dem Thema des Europäischen Forum Alpbach 2019 "Liberty and Security" auseinandersetzt.
+    Seminararbeiten oder sonstige studentische Aufgabentexte werden nicht als kreative Arbeit akzeptiert. <br>
+    Die Kreativarbeit muss eigens für die Bewerbung für ein Stipendium des Club Alpbach Tirol erstellt worden sein.
+    </p>
 
 
 
@@ -62,7 +65,7 @@ Der Club Alpbach Tirol vergibt <strong>keine Stipendien</strong> für die Sommer
 
 <h3>Bekanntgabe</h3>
 
-Die Stipendien werden bis spätestens Ende Mai vergeben. Der Rechtsweg ist ausgeschlossen. Der Club Alpbach Tirol vergibt ausschließlich Vollstipendien, daher ist eine <strong>Teilnahme am gesamten Forum Alpbach für Stipendiaten zwingend</strong>. Bei Bescheid des Stipendienerhalts werden alle Studierenden zur offiziellen Stipendienvergabe Anfang Juni eingeladen. Dort erhalten alle StipendiatInnen ein detailliertes Programm der Veranstaltungen, um die Teilnahme an Seminaren, Gesprächen etc. festzulegen. Die Organisation der Anmeldung und die Buchung der Unterkunft übernimmt der Club Alpbach Tirol.</p>
+Die Stipendien werden bis spätestens Ende Mai vergeben. Der Rechtsweg ist ausgeschlossen. Der Club Alpbach Tirol vergibt ausschließlich Vollstipendien, daher ist eine <strong>Teilnahme am gesamten Forum Alpbach für Stipendiaten zwingend</strong>. Bei Bescheid des Stipendienerhalts werden alle Studierenden zur offiziellen Stipendienvergabe Mitte Juni eingeladen. Dort erhalten alle StipendiatInnen ein detailliertes Programm der Veranstaltungen, um die Teilnahme an Seminaren, Gesprächen etc. festzulegen. Die Organisation der Anmeldung und die Buchung der Unterkunft übernimmt der Club Alpbach Tirol.</p>
 <p>Wir freuen uns auf deine Bewerbung!</p>
 
 

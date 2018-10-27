@@ -1,6 +1,6 @@
 {
-	"name" : "mkillumination-prototype",
-	"version" : "0.0.0",
+	"name": "cat",
+	"version": "0.0.0",
 	"devDependencies": {
 		"less": "latest",
 		"watch": "latest"
@@ -10,8 +10,5 @@
 		"css:watch": "watch 'npm run css' public/less/",
 		"build": "npm run css",
 		"build:watch": "npm run css:watch"
-  	}
-
-
+	}
 }
-

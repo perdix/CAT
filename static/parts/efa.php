@@ -18,13 +18,17 @@
 
 
 <h3>Seminarwoche</h3>
-Bis zu vierzehn Seminare sind verschiedenen wissenschaftlichen Disziplinen gewidmet. In jedem Seminar wird ein Themenschwerpunkt an sechs Halbtagen mit namhaften WissenschafterInnen diskutiert.</p>
+    Es werden über zwanzig Seminare zu zahlreichen wissenschaftlichen Disziplinen angeboten.
+    In jedem Seminar wird ein Themenschwerpunkt an sechs Halbtagen mit namhaften WissenschafterInnen diskutiert.</p>
 
 <h3>Alpbacher Gespräche</h3>
-<p>Diese zwei- bis dreitägigen Konferenzen befassen sich mit den Themen Architektur, Reform, Technologie, Politik, Gesundheit und Wirtschaft. Ergänzend dazu finden spezielle Workshops zu Bankwesen, Film und EU-Networking sowie ein Tiroltag und ein Universitätstag zu den Leistungen der Wissenschaft statt.</p>
+<p>
 
-
-Weitere Infos zum diesjährigen Programm findet man direkt unter <a href="http://www.alpbach.org/de/" title="">www.alpbach.org</a>.
+    Diese zwei- bis dreitägigen Konferenzen befassen sich mit Themen der Gesundheit, Technologie, Politik, Wirtschaft, Finanz und des Rechts.
+    <br>
+    Weiters gibt es Tiroltage und einen dezidierten Begegnungstag. <br>
+    Zusätzliche Informationen zum diesjährigen Programm sind unter <a href="http://www.alpbach.org/de/" title="">www.alpbach.org</a> abrufbar.
+</p>
 
 </div>
 
