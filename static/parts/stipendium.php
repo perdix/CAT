@@ -9,7 +9,7 @@
 	
 <p>Jedes Jahr vergibt der Club Alpbach Tirol Stipendien an Studierende aller Universitäten und Fachhochschulen in Tirol sowie an TirolerInnen, die an einer anderen nationalen oder internationalen Universität oder Fachhochschule studieren.
 <br><br>
-Der Club Alpbach Tirol vergibt Stipendien im Wert von € 1.200 für die Teilnahme an der Seminarwoche sowie den Alpbacher Gesprächen, nicht jedoch für die Alpbacher Sommerschule.
+Der Club Alpbach Tirol vergibt Stipendien im Wert von € 1.500 für die Teilnahme an der Seminarwoche sowie den Alpbacher Gesprächen, nicht jedoch für die Alpbacher Sommerschule.
 <br>
 Interessierte an einem solchen Stipendium müssen sich direkt beim Europäischen Forum bewerben. Voraussetzung für die Bewerbung um ein Stipendium des Club Alpbach Tirol ist eine Teilnahme am gesamten Forum in Alpbach sowie ein Höchstalter von 30 Jahren.</p>
 

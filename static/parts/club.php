@@ -29,37 +29,30 @@
 	<div class="container-fluid">
 		
 	<div class="col-sm-12 col-md-6">
-		<img src="public/img/vorstand/veronica.jpg" alt="Veronica">
-		<p class='name'>Veronica Rungger</p>
-		<p class='title'>Obfrau</p>
+		<p class='name'>Daniel Preisinger</p>
+		<p class='title'>Obmann</p>
 	</div>
 
 	<div class="col-sm-12 col-md-6">
-		<img src="public/img/vorstand/thomas.jpg" alt="Thomas">
-		<p class="name">Thomas Wieser, BBSc, MSc</p>
-		<p class="title">Obfrau Stv. / FAN-Koordination</p>
+		<p class="name">Mariella Rieder</p>
+		<p class="title">Obmann Stv.</p>
+	</div>
+
+    <div class="col-sm-12 col-md-6">
+        <p class="name">Hanna Strauß</p>
+        <p class="title">Obmann Stv.</p>
+    </div>
+
+
+	<div class="col-sm-12 col-md-6">
+		<p class="name">Viktoria Gugg</p>
+		<p class="title">Finanzreferentin</p>
 	</div>
 
 	<div class="col-sm-12 col-md-6">
-		<img src="public/img/vorstand/matthias.jpg" alt="Matthias">
-		<p class="name">Matthias Schwaiger, BA</p>
-		<p class="title">Obfrau Stv. / Projekt-Koordination</p>
-	</div>
-
-	<div class="col-sm-12 col-md-6">
-		<img src="public/img/vorstand/florian.jpg" alt="Florian">
-		<p class="name">Florian Heiß, MSc</p>
-		<p class="title">Finanzreferent</p>
-	</div>
-
-	<div class="col-sm-12 col-md-6">
-		<img src="public/img/vorstand/alexander.jpg" alt="Alexander">
-		<p class="name">Alexander Pali, BSc</p>
+		<p class="name">Benjamin Deutinger</p>
 		<p class="title">Schriftführer</p>
 	</div>
-
-
-
 
 	</div>
 
