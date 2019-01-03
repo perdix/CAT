@@ -23,7 +23,9 @@
 
 
 <div class="persons">
+    <br>
 	<h3>Ehrenamtlicher Vorstand</h3>
+
 
 
 	<div class="container-fluid">
